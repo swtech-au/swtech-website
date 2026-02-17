@@ -17,9 +17,9 @@ plugins:
 # Navigation
 header_pages:
   - index.md
+  - about.md
   - services.md
   - technologies-and-partners.md
-  - about.md
   - contact.md
 
 # Social Links
