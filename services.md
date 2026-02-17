@@ -2,6 +2,7 @@
 layout: page
 title: Services
 permalink: /services/
+nav_order: 5
 ---
 
 Capes Technology Services offers a comprehensive suite of technology services designed to solve modern connectivity and automation challenges.

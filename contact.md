@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+nav_order: 3
 ---
 
 Ready to start your next project or need help with an existing system? Get in touch with Capes Technology Services today.

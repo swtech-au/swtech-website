@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 2
 ---
 
 **Capes Technology Services** was founded to bring world-class technical expertise to the South West region. We are a team of technology experts with over 20 years of experience in the industry.

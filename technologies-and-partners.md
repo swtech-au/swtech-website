@@ -2,6 +2,7 @@
 layout: page
 title: Technologies & Partners
 permalink: /technologies/
+nav_order: 4
 ---
 
 While the following represent some of the core technologies and ecosystems we frequently deploy, our expertise is not limited to these alone. At Capes Technology Services, **we are independent integrators focused on selecting the best technology for your specific needs.**
