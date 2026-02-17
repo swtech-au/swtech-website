@@ -18,9 +18,9 @@ plugins:
 header_pages:
   - index.md
   - about.md
-  - services.md
-  - technologies-and-partners.md
   - contact.md
+  - technologies-and-partners.md
+  - services.md
 
 # Social Links
 twitter_username: capestech_wa
