@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-Ready to start your next project or need help with an existing system? Get in touch with SWTech today.
+Ready to start your next project or need help with an existing system? Get in touch with Capes Technology Services today.
 
 ### Contact Details
-*   **Email:** [info@swtech.com.au](mailto:info@swtech.com.au)
+*   **Email:** [info@capestechnology.com.au](mailto:info@capestechnology.com.au)
 *   **Location:** Serving the South Western WA region.
 
 ### Inquiry Form

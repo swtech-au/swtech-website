@@ -1,6 +1,6 @@
-# SWTech Website
+# Capes Technology Services Website
 
-This is the source code for the SWTech (South Western WA Technology Services) website, built with Jekyll and designed for hosting on GitHub Pages.
+This is the source code for the Capes Technology Services website, built with Jekyll and designed for hosting on GitHub Pages.
 
 ## How to use this repository
 

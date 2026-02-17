@@ -1,11 +1,11 @@
-title: South Western WA Technology Services
-email: info@swtech.com.au
+title: Capes Technology Services
+email: info@capestechnology.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Professional technology services for residential, commercial, and agricultural
   customers in South Western WA. Networking, Home Automation, Camera Systems, and more.
 baseurl: "/swtech-website" # the subpath of your site, e.g. /swtech-website
 url: "" # Leave empty for now, GitHub Pages will handle it
-author: SWTech
+author: Capes Technology Services
 
 # Build settings
 remote_theme: jekyll/minima
@@ -23,15 +23,15 @@ header_pages:
   - contact.md
 
 # Social Links
-twitter_username: swtech_wa
-github_username: swtech-wa
-# linkedin_username: swtech-wa
+twitter_username: capestech_wa
+github_username: capestech-wa
+# linkedin_username: capestech-wa
 
 # Minima configuration
 minima:
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/swtech_wa" }
-    - { platform: github,  user_url: "https://github.com/swtech-wa" }
+    - { platform: twitter, user_url: "https://twitter.com/capestech_wa" }
+    - { platform: github,  user_url: "https://github.com/capestech-wa" }
 
 # Exclude from processing.
 exclude:

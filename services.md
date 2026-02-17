@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-SWTech offers a comprehensive suite of technology services designed to solve modern connectivity and automation challenges.
+Capes Technology Services offers a comprehensive suite of technology services designed to solve modern connectivity and automation challenges.
 
 ### 📶 Networking & Connectivity
 High-speed, reliable internet is the backbone of any modern property.

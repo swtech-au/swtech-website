@@ -4,7 +4,7 @@ title: Technologies & Partners
 permalink: /technologies/
 ---
 
-While the following represent some of the core technologies and ecosystems we frequently deploy, our expertise is not limited to these alone. At SWTech, we have the capability to meet you where your technology stack is currently and help you transition to where you want it to go. 
+While the following represent some of the core technologies and ecosystems we frequently deploy, our expertise is not limited to these alone. At Capes Technology Services, we have the capability to meet you where your technology stack is currently and help you transition to where you want it to go. 
 
 Our vast experience across diverse technical environments allows us to get up to speed rapidly on your existing infrastructure, providing immediate value whether we are troubleshooting an old system or planning a complete modernization.
 
