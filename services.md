@@ -31,5 +31,23 @@ Bringing the power of IoT to the field.
 *   Extended Wi-Fi for farm management software.
 *   CCTV for calving/lambing sheds.
 
+### ☁️ Cloud Migrations
+Modernize your data storage and application accessibility.
+*   Migration of local servers to Microsoft 365, Google Workspace, or AWS.
+*   Secure cloud backup solutions for critical business data.
+*   Setup and training for remote work and collaborative tools.
+
+### ⚙️ Process Automation
+Work smarter, not harder, by automating the routine.
+*   Business workflow automation using tools like Zapier or Make.
+*   Custom scripting to handle repetitive data tasks.
+*   Integration between disparate software systems to ensure a "single source of truth."
+
+### 🤖 AI Implementation & Integration
+Harness the power of Artificial Intelligence to gain a competitive edge.
+*   Implementation of AI-driven chatbots and customer support tools.
+*   Integration of LLMs (Large Language Models) into existing business processes.
+*   Advisory on AI tools for content creation, data analysis, and decision support.
+
 ### 🏗️ New Property Planning
 Building or renovating? We work with you from the blueprint stage to ensure your technology infrastructure is "future-proofed."
