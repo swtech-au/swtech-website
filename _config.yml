@@ -1,0 +1,44 @@
+title: SWTech - South Western WA Technology Services
+email: info@swtech.com.au
+description: >- # this means to ignore newlines until "baseurl:"
+  Professional technology services for residential, commercial, and agricultural
+  customers in South Western WA. Networking, Home Automation, Camera Systems, and more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: SWTech
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Navigation
+header_pages:
+  - index.md
+  - services.md
+  - technologies-and-partners.md
+  - about.md
+  - contact.md
+
+# Social Links
+twitter_username: swtech_wa
+github_username: swtech-wa
+# linkedin_username: swtech-wa
+
+# Minima configuration
+minima:
+  social_links:
+    - { platform: twitter, user_url: "https://twitter.com/swtech_wa" }
+    - { platform: github,  user_url: "https://github.com/swtech-wa" }
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
