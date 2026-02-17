@@ -4,9 +4,9 @@ title: Technologies & Partners
 permalink: /technologies/
 ---
 
-While the following represent some of the core technologies and ecosystems we frequently deploy, our expertise is not limited to these alone. At Capes Technology Services, we have the capability to meet you where your technology stack is currently and help you transition to where you want it to go. 
+While the following represent some of the core technologies and ecosystems we frequently deploy, our expertise is not limited to these alone. At Capes Technology Services, we are independent integrators focused on selecting the best technology for your specific needs. 
 
-Our vast experience across diverse technical environments allows us to get up to speed rapidly on your existing infrastructure, providing immediate value whether we are troubleshooting an old system or planning a complete modernization.
+We have the capability to meet you where your technology stack is currently and help you transition to where you want it to go. Our vast experience across diverse technical environments allows us to get up to speed rapidly on your existing infrastructure, providing immediate value whether we are troubleshooting an old system or planning a complete modernization.
 
 ---
 
@@ -36,5 +36,3 @@ We work with all types of NBN connections (FTTP, FTTN, Fixed Wireless) to optimi
 Reolink provides a versatile and cost-effective range of security solutions. From 4K PoE (Power over Ethernet) cameras to solar-powered 4G units for remote farm gates, Reolink systems offer excellent image quality and smart person/vehicle detection without the burden of monthly subscription fees.
 
 ---
-
-*Note: We are independent integrators focused on selecting the best technology for your specific needs.*
