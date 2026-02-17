@@ -3,8 +3,8 @@ email: info@swtech.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Professional technology services for residential, commercial, and agricultural
   customers in South Western WA. Networking, Home Automation, Camera Systems, and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/swtech-website" # the subpath of your site, e.g. /swtech-website
+url: "" # Leave empty for now, GitHub Pages will handle it
 author: SWTech
 
 # Build settings
