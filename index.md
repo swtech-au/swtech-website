@@ -3,9 +3,11 @@ layout: home
 title: Home
 ---
 
-## Empowering South Western WA with Smart Technology Solutions
+## Global Expertise, Locally Delivered.
 
-At **SWTech**, we bridge the gap between complex technology and your everyday needs. Based in South Western WA, we provide expert technology services tailored for residential, commercial, and agricultural environments.
+**SWTech** brings over 20 years of international technology engineering experience directly to the South West. Founded by **John Citizen**, who has managed complex IT environments for some of the world's largest corporations across **Australia, London, and Canada**, we provide the same enterprise-grade standards to our local residential, commercial, and agricultural clients.
+
+Based in South Western WA, we bridge the gap between complex technology and your everyday needs. Whether you are troubleshooting existing infrastructure or planning a new digital initiative, we help you develop a robust roadmap for success.
 
 ### Our Core Capabilities
 - **Networking & Connectivity:** Robust Wi-Fi and wired solutions for home and office.
