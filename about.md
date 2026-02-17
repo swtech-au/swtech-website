@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About SWTech
+title: About
 permalink: /about/
 ---
 

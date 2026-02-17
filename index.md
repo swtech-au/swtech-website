@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to SWTech
+title: Home
 ---
 
 ## Empowering South Western WA with Smart Technology Solutions
