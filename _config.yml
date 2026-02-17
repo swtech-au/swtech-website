@@ -16,10 +16,10 @@ plugins:
 
 # Navigation
 header_pages:
-  - about.md
-  - contact.md
-  - technologies-and-partners.md
-  - services.md
+  - 1-about.md
+  - 2-contact.md
+  - 3-technologies.md
+  - 4-services.md
 
 # Social Links
 twitter_username: capestech_wa
